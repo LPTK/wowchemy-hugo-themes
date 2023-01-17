@@ -1,4 +1,4 @@
-module github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo
+module github.com/LPTK/wowchemy-hugo-themes/modules/wowchemy-seo
 
 go 1.15
 
